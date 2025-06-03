@@ -17,11 +17,16 @@ The application targets students, professionals, and individuals aiming to impro
 
 ## Technology Stack
 
-**Frontend**: React/NextJS(Undecided), TailwindCSS  
-**Backend**: Node.js, Express.js  
+**Frontend**: React/NextJS(Undecided), TailwindCSS
+
+**Backend**: Node.js, Express.js 
+
 **Database**: PostgreSQL 
+
 **AI Services**: OpenAI API/Google Gemini API
-**Calendar Integration**: Google Calendar API  
+
+**Calendar Integration**: Google Calendar API 
+
 **DevOps / Deployment**: Docker, Vercel, AWS or Render  
 
 
