@@ -30,8 +30,7 @@ The application targets students, professionals, and individuals aiming to impro
 - Natural language input for goals and tasks  
 - AI-based task parsing and organization  
 - Dynamic scheduling based on availability  
-- Google Calendar synchronization  
-- Smart reminder system  
+- Google Calendar synchronization
 - Visual goal and productivity tracking  
 
 
